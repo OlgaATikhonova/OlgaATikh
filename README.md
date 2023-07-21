@@ -41,6 +41,9 @@
 Код решения задачи в SQl:
 > <a href="https://metabase.sky.pro/question/77600">Ссылка на проект</a>
 
-Визуализация:
+Выводы по проекту:
+> <a href="https://github.com/OlgaATikhonova/OlgaATikh/blob/main/Выводы%20по%20SQL">Ссылка на проект</a>
+
+
 
 
